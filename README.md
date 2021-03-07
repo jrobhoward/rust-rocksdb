@@ -1,3 +1,8 @@
+TO TEST ON APPLE SILICON
+========================
+cargo test --target aarch64-apple-darwin
+
+
 rust-rocksdb
 ============
 [![Build Status](https://travis-ci.org/rust-rocksdb/rust-rocksdb.svg?branch=master)](https://travis-ci.org/rust-rocksdb/rust-rocksdb)
