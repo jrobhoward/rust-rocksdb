@@ -1,5 +1,6 @@
-TO TEST ON APPLE SILICON
+TO TEST THIS REPO ON APPLE SILICON
 ========================
+git submodule update
 cargo test --target aarch64-apple-darwin
 
 
