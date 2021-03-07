@@ -1,6 +1,6 @@
 TO TEST THIS REPO ON APPLE SILICON
 ========================
-git submodule update
+git submodule update --init --recursive
 cargo test --target aarch64-apple-darwin
 
 
